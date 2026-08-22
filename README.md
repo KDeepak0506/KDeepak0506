@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Deepak 👋
 
-<!--
-**KDeepak0506/KDeepak0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in backend engineering, AI applications,
+and machine learning.
 
-Here are some ideas to get you started:
+### Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · FastAPI · PostgreSQL · SQLAlchemy · React · Docker · Azure
+
+### Projects
+
+- MedInsight AI — AI-powered medical document processing application.
+- Healthcare Document Intelligence Platform — Team project for intelligent
+  healthcare document processing and information extraction.
+- Cancer Classification — ML classification using RNA-seq gene expression data.
+- ML From Scratch — Linear and Logistic Regression implementations.
+
+### Currently Learning
+
+LLM applications · RAG · Vector Databases · AI Agents · MLOps
+
+### Focus
+
+Building practical software while strengthening my foundations in
+backend engineering, databases, and AI/ML.
