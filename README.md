@@ -15,7 +15,7 @@ Computer Science student interested in backend engineering, AI applications, and
 ### Projects
 
 - [MedInsight AI](https://github.com/KDeepak0506/MedInsight-AI) — AI-powered medical document processing application.
-- [Healthcare Document Intelligence Platform](https://github.com/KDeepak0506/health-document-intelligence-platform) `[In Progress]` — Team project for intelligent healthcare document processing and information extraction.
+- [HealthParse](https://github.com/KDeepak0506/health-document-intelligence-platform) `[In Progress]` — Team project for intelligent healthcare document processing and information extraction.
 - [Cancer Classification](https://github.com/KDeepak0506/RNA-seq-cancer-classification) — ML classification using RNA-seq gene expression data.
 - [ML From Scratch](https://github.com/KDeepak0506/Linear-Regression-From-Scratch) — Linear and Logistic Regression implementations.
 
